@@ -106,7 +106,7 @@ With the API running against a database:
 
 ```bash
 cd backend
-node scripts/smoke-test.mjs          # 46 end-to-end API checks (auth, permissions, CRUD, dashboard, activity)
+node scripts/smoke-test.mjs          # 45 end-to-end API checks (auth, permissions, CRUD, dashboard, activity)
 ```
 
 ## Production deployment
